@@ -4,7 +4,7 @@ import IMG3 from '../../assets/quiz.jpg'
 import IMG2 from '../../assets/carty.jpg'
 import IMG4 from '../../assets/dice.jpg'
 import IMG5 from '../../assets/portfo.jpg'
-import IMG6 from '../../assets/planet.jpg'
+import IMG6 from '../../assets/travel.png'
 
 const data = [
     {
@@ -29,9 +29,9 @@ const data = [
     },{
         id: 4,
         image: IMG6,
-        title: 'Eco-planet',
-        github: " https://github.com/Danny-flash",
-        demo: "https://ecoplanet.netlify.app"
+        title: 'Travel-Agency',
+        github: " https://github.com/Danny-flash/Travel-landing-page",
+        demo: "https://travel-landing-page-omega.vercel.app"
     },{
         id: 5,
         image: IMG4,
